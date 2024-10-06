@@ -1,4 +1,4 @@
 User-Agent: *
 Disallow: 
 
-Sitemap: https://rcavua.github.io/eqF/sitemap.eqF.gz
+Sitemap: https://nowalter.github.io/eqF/sitemap.eqF.gz
