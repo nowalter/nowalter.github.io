@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://nowalter.github.io/jFM/sitemap.jFM.gz
